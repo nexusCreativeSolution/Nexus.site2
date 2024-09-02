@@ -1,5 +1,4 @@
 <?php
-ok
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 
