@@ -1,13 +1,13 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "nexusCreativeSolution/Nexus.site2",
     "autoload": {
         "psr-4": {
-            "Priyansh\\Itcompany\\": "src/"
+            "nexusCreativeSolution\\Nexus.site2\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "Nexus Company"
         }
     ],
     "require": {
