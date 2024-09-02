@@ -75,3 +75,5 @@ $('.accordion-header').click(function(){
 });
 
 });
+
+console.log("done");
